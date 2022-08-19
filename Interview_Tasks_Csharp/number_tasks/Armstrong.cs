@@ -1,6 +1,6 @@
-namespace ConsoleApp1;
+namespace Interview_Tasks_Csharp.number_tasks;
 
-public class Number_Armstrong
+public class Armstrong
 {
     private static bool IsArmstrong(int number){
 
@@ -15,10 +15,10 @@ public class Number_Armstrong
 
         return sum == number;
     }
-
+/*
     private static int Main()
     {
         Console.Write(IsArmstrong(153));
         return 1;
-    }
+    }*/
 }

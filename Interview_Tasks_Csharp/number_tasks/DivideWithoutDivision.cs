@@ -1,6 +1,6 @@
-namespace ConsoleApp1;
+namespace Interview_Tasks_Csharp.number_tasks;
 
-public class Number_DivideWithoutDivision
+public class DivideWithoutDivision
 {
     private static Dictionary<string, int> Divide(int dividend, int divisor)
     {

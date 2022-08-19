@@ -1,8 +1,8 @@
-namespace ConsoleApp1;
+namespace Interview_Tasks_Csharp.number_tasks;
 
-public class Number_ReverseInteger
+public class ReverseInteger
 {
-    static int ReverseInteger(int num)
+    static int Reverse(int num)
     {
         var temp = 0;
 
@@ -17,6 +17,6 @@ public class Number_ReverseInteger
 /*
     private static void Main()
     {
-        Console.WriteLine(ReverseInteger(5624647));
+        Console.WriteLine(Reverse(5624647));
     }*/
 }

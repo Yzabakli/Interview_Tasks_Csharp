@@ -1,8 +1,8 @@
-namespace ConsoleApp1;
+namespace Interview_Tasks_Csharp.number_tasks;
 
-public class Number_SumAllDigitsUntilOneDigit
+public class SumAllDigitsUntilOneDigit
 {
-    static void SumAllDigitsUntilOneDigit(int n)
+    static void SumAllDigitsUntilOne(int n)
     {
         while (n > 9)
         {
@@ -21,6 +21,6 @@ public class Number_SumAllDigitsUntilOneDigit
 /*
     static void Main()
     {
-        SumAllDigitsUntilOneDigit(797897);
+        SumAllDigitsUntilOne(797897);
     }*/
 }
